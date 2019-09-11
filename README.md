@@ -16,6 +16,8 @@ Summary of findings
 Tools used: dataset analysis was done with SQL and Tableau, as the dataset was fairly small
 
 __Largest Fleets__: 
+![largest01](/flightgraphs/largestfleets.jpg)
+
 https://public.tableau.com/profile/sonia.yang#!/vizhome/FlightData_15681918430980/CurrentFleetSize
 * The largest fleets are mostly US-based airlines (American, Delta, United, Southwest) with China not too far behind. This is not too surprising as air travel is very popular in the US for long distance travel. Many business professionals who need to travel for work would prefer a quick flight over a long drive or train ride.
 * By the 2015 statistic in this article, the US has the highest amount of air passengers, with China in 2nd place, which matches up with the fleet size data. 
