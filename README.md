@@ -6,15 +6,15 @@ One specific axis I examined the data on that was not mentioned in the dataset s
 I created an extra column in the data called carrier type and used this list (https://brightside.me/wonder-curiosities/a-comprehensive-list-of-all-the-low-cost-airlines-in-the-world-212305/) for reference to mark which airlines are low cost ones and marked the rest as traditional.
 
 Summary of findings
-•	US-based airlines have the largest fleets; China is not far behind
-•	Low-cost airlines from Asia have the fastest growth 
-•	Low-cost airlines do not try to save money by buying cheaper planes
-•	Boeing 747 and Airbus A320 are the most popular planes, the latter even more so with low-cost airlines
-•	US-based and China-based airlines do not have the highest fleet longevity
-•	Fleet age is not a major deciding factor in ordering new planes
+* US-based airlines have the largest fleets; China is not far behind
+* Low-cost airlines from Asia have the fastest growth 
+*	Low-cost airlines do not try to save money by buying cheaper planes
+*	Boeing 747 and Airbus A320 are the most popular planes, the latter even more so with low-cost airlines
+*	US-based and China-based airlines do not have the highest fleet longevity
+*	Fleet age is not a major deciding factor in ordering new planes
 
 Tools used: dataset analysis was done with SQL and Tableau, as the dataset was fairly small
- 
+
 Largest Fleets: 
 https://public.tableau.com/profile/sonia.yang#!/vizhome/FlightData_15681918430980/CurrentFleetSize
 * The largest fleets are mostly US-based airlines (American, Delta, United, Southwest) with China not too far behind. This is not too surprising as air travel is very popular in the US for long distance travel. Many business professionals who need to travel for work would prefer a quick flight over a long drive or train ride.
