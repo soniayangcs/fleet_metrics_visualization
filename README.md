@@ -46,7 +46,6 @@ In fact, the Airbus A320 is so popular with low cost airlines that out of the mo
 * Most Retired: https://public.tableau.com/profile/sonia.yang#!/vizhome/FlightData_15681918430980/MostRetiredPlanes
 I was curious about trends in retired planes and noticed that McDonnell Douglas showed up for half the results in the top 10 so I did some extra research and turns out Boeing bought and merged with McDonnell Douglas in 1997, and several McDonnell Douglas planes had unfavorable reputations in the past due to a high frequency of accidents and were eventually permanently retired – all of which makes sense with the data. As for the Boeing 737 being the top result for retired plane – it just simply means that it’s a very commonly used plane. Seeing how the numbers are high for both current fleet and orders, the high retired number does not actually indicate decline.
 
- 
 __Oldest Fleets__: https://public.tableau.com/profile/sonia.yang#!/vizhome/FlightData_15681918430980/OldestFleets
 * None of the oldest fleets (by average age of current planes in the fleet) were listed among the largest and only one of them (Air Transport International) is US-based and none of them are Chinese airlines. It’s worth pointing that out as mentioned before, because US and China have the largest amount of air passengers, their planes will get the most frequent use and will likely not last as long/will have to be replaced sooner for safety reasons.    
 
